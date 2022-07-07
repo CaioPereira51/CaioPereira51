@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Angular, Typescript, Ionic<br>🎯 Goals: Become a better programmer<br>🎲 Hobby: Online games, Series, movies and drinking with friends</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Vuejs and .NET<br>🎯 Goals: Become a better programmer<br>🎲 Hobby: Online games, Series, movies and drinking with friends</p>
 
 ###
 
