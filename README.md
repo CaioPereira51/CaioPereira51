@@ -32,13 +32,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiopereira51&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopereira51&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=caiopereira51&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caiopereira51&theme=radical&row=1" alt="GitHub Trophy"/>
 </div>
 
 ## 📫 Contato
