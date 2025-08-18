@@ -21,6 +21,7 @@
 
 ## 📋 Projetos em Destaque
 
+- **[Portifólio Pessoal](https://caiopereira51.github.io/)** - Portifólio Pessoal desenvolvido com Vue.js e PrimeVue
 - **[GitHub Actions Teste](https://github.com/CaioPereira51/gh_actions_teste)** – Projeto Vue.js com configuração de GitHub Actions para CI/CD
 - **[Analytics com Python](https://github.com/CaioPereira51/analitics-com-python)** – Repositório com exercícios de análise de dados usando Jupyter Notebooks
 - **[Alura Bootstrap 5 Meteora](https://github.com/CaioPereira51/alura-bootstrap5-meteora)** – Projeto frontend desenvolvido com Bootstrap 5
