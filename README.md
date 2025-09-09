@@ -39,7 +39,8 @@
         - <a href="https://github.com/CaioPereira51/analitics-com-python" target="_blank">Analytics com Python</a> – Repositório com exercícios de análise de dados usando Jupyter Notebooks<br />
         - <a href="https://github.com/CaioPereira51/alura-bootstrap5-meteora" target="_blank">Alura Bootstrap 5 Meteora</a> – Projeto frontend desenvolvido com Bootstrap 5<br />
         - <a href="https://github.com/CaioPereira51/Aula-mobile-Lista-tarefas" target="_blank">Lista de Tarefas Mobile</a> – Aplicativo mobile para gerenciamento de tarefas<br />
-        - <a href="https://github.com/CaioPereira51/Aula-mobile-Pokedex" target="_blank">Pokédex Mobile</a> – Aplicativo mobile para consulta de dados de Pokémon
+        - <a href="https://github.com/CaioPereira51/Aula-mobile-Pokedex" target="_blank">Pokédex Mobile</a> – Aplicativo mobile para consulta de dados de Pokémon<br />
+        - <a href="https://github.com/CaioPereira51/desafio-onfly" target="_blank>Desafio Onfly</a> - Teste prático para empresa Onfly
       </p>
     </div>
   </td>
