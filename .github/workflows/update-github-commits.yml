@@ -1,0 +1,41 @@
+name: Atualizar commits do ano
+
+on:
+  schedule:
+    - cron: "15 8 * * *" # Diariamente, 08:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar SVG com a API oficial do GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: caiopereira51
+        run: python scripts/update_github_commits.py
+
+      - name: Publicar SVG atualizado
+        run: |
+          git add assets/github-commits-ano.svg
+          if git diff --cached --quiet; then
+            echo "Nenhuma atualização necessária."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "chore: atualizar estatísticas de commits"
+          git push

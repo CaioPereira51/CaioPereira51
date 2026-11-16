@@ -86,8 +86,16 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" alt="Estatísticas do GitHub de Caio Pereira" src="https://github-readme-stats.vercel.app/api?username=caiopereira51&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" />
-  <img height="165" alt="Linguagens mais usadas por Caio Pereira" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopereira51&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;locale=pt-br" />
+  <img width="95%" alt="Resumo de atividades públicas no GitHub de Caio Pereira" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiopereira51&amp;theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="95%" alt="Commits e contribuições de Caio Pereira no ano atual, atualizados automaticamente pelo GitHub Actions" src="./assets/github-commits-ano.svg" />
+</p>
+
+<p align="center">
+  <img width="47.5%" alt="Estatísticas públicas do GitHub de Caio Pereira" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiopereira51&amp;theme=github_dark" />
+  <img width="47.5%" alt="Distribuição de linguagens nos repositórios públicos de Caio Pereira" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiopereira51&amp;theme=github_dark" />
 </p>
 
 ## 🤝 Vamos conversar?
