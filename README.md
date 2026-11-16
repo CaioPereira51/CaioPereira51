@@ -90,10 +90,6 @@
 </p>
 
 <p align="center">
-  <img width="95%" alt="Commits e contribuições de Caio Pereira no ano atual, atualizados automaticamente pelo GitHub Actions" src="./assets/github-commits-ano.svg" />
-</p>
-
-<p align="center">
   <img width="47.5%" alt="Estatísticas públicas do GitHub de Caio Pereira" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiopereira51&amp;theme=github_dark" />
   <img width="47.5%" alt="Distribuição de linguagens nos repositórios públicos de Caio Pereira" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiopereira51&amp;theme=github_dark" />
 </p>
